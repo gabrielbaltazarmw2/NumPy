@@ -34,7 +34,7 @@ Aqui estão algumas referências úteis para aprender mais sobre o NumPy:
 
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato conosco. Você pode nos encontrar nos seguintes canais:
 
-- Email: [gabrielbaltazarmw2@tahoo.com.br](mailto:gabrielbaltazar)
-
+- Email: [gabrielbaltazarmw2@yahoo.com.br](mailto:gabrielbaltazarmw2@yahoo.com.br)
+- Email: [g234628@dac.unicamp.br](mailto:g234628@dac.unicamp.br)
 
 Esperamos que você encontre este repositório útil e que ele o ajude a aproveitar ao máximo o NumPy em suas tarefas de processamento de dados e análise numérica. Divirta-se explorando o código e aprendendo mais sobre o NumPy!
